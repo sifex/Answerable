@@ -4189,6 +4189,15 @@ section#valve {
   section#valve a#more:hover {
     background-color: #4b453b; }
 
+.blurb {
+  color: #222;
+  padding: 20px 0 50px;
+  text-align: justify; }
+  .blurb p {
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 40px; }
+
 /* --------------------------- */
 /* --------- Footer ---------- */
 /* --------------------------- */
