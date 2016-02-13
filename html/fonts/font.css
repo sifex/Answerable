@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Proxima Nova Rg';
+  src: url('proximanova-regular.eot'); /* IE9 Compat Modes */
+  src: url('proximanova-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('proximanova-regular.woff') format('woff'), /* Modern Browsers */
+       url('proximanova-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('proximanova-regular.svg#2c1459d58560f08b4b0586fbe80aa4cd') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
